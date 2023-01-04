@@ -1,0 +1,15 @@
+D:\DotNet\dotnet-repo-cdac\Day6\EventDrivenSolution\DeligateDemoApp\bin\Debug\net7.0\DeligateDemoApp.exe
+D:\DotNet\dotnet-repo-cdac\Day6\EventDrivenSolution\DeligateDemoApp\bin\Debug\net7.0\DeligateDemoApp.deps.json
+D:\DotNet\dotnet-repo-cdac\Day6\EventDrivenSolution\DeligateDemoApp\bin\Debug\net7.0\DeligateDemoApp.runtimeconfig.json
+D:\DotNet\dotnet-repo-cdac\Day6\EventDrivenSolution\DeligateDemoApp\bin\Debug\net7.0\DeligateDemoApp.dll
+D:\DotNet\dotnet-repo-cdac\Day6\EventDrivenSolution\DeligateDemoApp\bin\Debug\net7.0\DeligateDemoApp.pdb
+D:\DotNet\dotnet-repo-cdac\Day6\EventDrivenSolution\DeligateDemoApp\obj\Debug\net7.0\DeligateDemoApp.csproj.AssemblyReference.cache
+D:\DotNet\dotnet-repo-cdac\Day6\EventDrivenSolution\DeligateDemoApp\obj\Debug\net7.0\DeligateDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\dotnet-repo-cdac\Day6\EventDrivenSolution\DeligateDemoApp\obj\Debug\net7.0\DeligateDemoApp.AssemblyInfoInputs.cache
+D:\DotNet\dotnet-repo-cdac\Day6\EventDrivenSolution\DeligateDemoApp\obj\Debug\net7.0\DeligateDemoApp.AssemblyInfo.cs
+D:\DotNet\dotnet-repo-cdac\Day6\EventDrivenSolution\DeligateDemoApp\obj\Debug\net7.0\DeligateDemoApp.csproj.CoreCompileInputs.cache
+D:\DotNet\dotnet-repo-cdac\Day6\EventDrivenSolution\DeligateDemoApp\obj\Debug\net7.0\DeligateDemoApp.dll
+D:\DotNet\dotnet-repo-cdac\Day6\EventDrivenSolution\DeligateDemoApp\obj\Debug\net7.0\refint\DeligateDemoApp.dll
+D:\DotNet\dotnet-repo-cdac\Day6\EventDrivenSolution\DeligateDemoApp\obj\Debug\net7.0\DeligateDemoApp.pdb
+D:\DotNet\dotnet-repo-cdac\Day6\EventDrivenSolution\DeligateDemoApp\obj\Debug\net7.0\DeligateDemoApp.genruntimeconfig.cache
+D:\DotNet\dotnet-repo-cdac\Day6\EventDrivenSolution\DeligateDemoApp\obj\Debug\net7.0\ref\DeligateDemoApp.dll
