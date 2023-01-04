@@ -5,10 +5,10 @@ CentralGov bjp = new CentralGov();
 Account acc1 = new Account();
 
 TaxOperation itOperation = new TaxOperation(bjp.DeductServiceTax);
-itOperation(acc1.Balance);
-
+acc1.Balance = itOperation(acc1.Balance);
+Console.WriteLine("Balance = "+acc1.Balance);
 TaxOperation profOperation = new TaxOperation(bjp.DeductProfessionalTax);
-profOperation(acc1.Balance);
+acc1.Balance = profOperation(acc1.Balance);
 
 acc1.overBalance+=itOperation;
 acc1.overBalance+=profOperation;
@@ -20,7 +20,6 @@ acc1.ProcessTax();
 
 Console.WriteLine("Balance after tax = "+acc1.Balance);
 
-
 /* //MULTICAST DELEGATE
 TaxOperation? generalOpr = null;
 
@@ -29,4 +28,3 @@ generalOpr += profOperation;
 
 generalOpr(9000);
 */
-

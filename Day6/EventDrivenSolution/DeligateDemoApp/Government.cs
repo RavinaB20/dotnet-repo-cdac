@@ -1,19 +1,20 @@
 namespace EGovernance;
 using Banking;
 
-public delegate void TaxOperation(double amount);
+public delegate double TaxOperation(double amount);
 
 public class CentralGov {
-    public void DeductIncomeTax(double amount){
+    public double DeductIncomeTax(double amount){
         Console.WriteLine("20% of income tax deducted from account");
-        
+        return (amount - ((amount/100)*20));
     }
-    public void DeductServiceTax(double amount){
+    public double DeductServiceTax(double amount){
         Console.WriteLine("15% of income tax deducted from account");
-        Console.WriteLine("Amount = "+amount);
+        return (amount - ((amount/100)*15));
     }
-    public void DeductProfessionalTax(double amount){
+    public double DeductProfessionalTax(double amount){
         Console.WriteLine("35% of income tax deducted from account");
+        return (amount - ((amount/100)*35));
     }
 
 }
