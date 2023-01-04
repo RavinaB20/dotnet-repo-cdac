@@ -1,13 +1,15 @@
 namespace Banking;
 using EGovernance;
+using BankingOrg;
 
 public class Account{
     public event TaxOperation? overBalance;
+    public event BankOperation? underBalance;
 
     public double Balance { get; set; }
 
     public Account(){
-        this.Balance = 3000;
+        this.Balance = 9000;
     }
 
     public void withdraw(double amount){
@@ -28,4 +30,11 @@ public class Account{
             
         }
     }
+
+    public void ManageAccount(){
+        if(this.Balance < 5000){
+            underBalance();
+        }
+    }
+
 }
