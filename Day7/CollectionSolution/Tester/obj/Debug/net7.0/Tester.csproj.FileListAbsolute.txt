@@ -1,0 +1,15 @@
+D:\DotNet\dotnet-repo-cdac\Day7\CollectionSolution\Tester\bin\Debug\net7.0\Tester.exe
+D:\DotNet\dotnet-repo-cdac\Day7\CollectionSolution\Tester\bin\Debug\net7.0\Tester.deps.json
+D:\DotNet\dotnet-repo-cdac\Day7\CollectionSolution\Tester\bin\Debug\net7.0\Tester.runtimeconfig.json
+D:\DotNet\dotnet-repo-cdac\Day7\CollectionSolution\Tester\bin\Debug\net7.0\Tester.dll
+D:\DotNet\dotnet-repo-cdac\Day7\CollectionSolution\Tester\bin\Debug\net7.0\Tester.pdb
+D:\DotNet\dotnet-repo-cdac\Day7\CollectionSolution\Tester\obj\Debug\net7.0\Tester.csproj.AssemblyReference.cache
+D:\DotNet\dotnet-repo-cdac\Day7\CollectionSolution\Tester\obj\Debug\net7.0\Tester.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\dotnet-repo-cdac\Day7\CollectionSolution\Tester\obj\Debug\net7.0\Tester.AssemblyInfoInputs.cache
+D:\DotNet\dotnet-repo-cdac\Day7\CollectionSolution\Tester\obj\Debug\net7.0\Tester.AssemblyInfo.cs
+D:\DotNet\dotnet-repo-cdac\Day7\CollectionSolution\Tester\obj\Debug\net7.0\Tester.csproj.CoreCompileInputs.cache
+D:\DotNet\dotnet-repo-cdac\Day7\CollectionSolution\Tester\obj\Debug\net7.0\Tester.dll
+D:\DotNet\dotnet-repo-cdac\Day7\CollectionSolution\Tester\obj\Debug\net7.0\refint\Tester.dll
+D:\DotNet\dotnet-repo-cdac\Day7\CollectionSolution\Tester\obj\Debug\net7.0\Tester.pdb
+D:\DotNet\dotnet-repo-cdac\Day7\CollectionSolution\Tester\obj\Debug\net7.0\Tester.genruntimeconfig.cache
+D:\DotNet\dotnet-repo-cdac\Day7\CollectionSolution\Tester\obj\Debug\net7.0\ref\Tester.dll
