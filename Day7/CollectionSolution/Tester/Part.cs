@@ -10,7 +10,7 @@ public class Part
         return "Partname : " + PartName + " Part id : " + PartId;
     }
 
-    public override bool Equals(Part newPart)
+    public int Equals(Part newPart)
     {
         if(this.PartId > newPart.PartId)
             return 1;
