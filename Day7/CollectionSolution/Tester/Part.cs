@@ -9,4 +9,15 @@ public class Part
     {
         return "Partname : " + PartName + " Part id : " + PartId;
     }
+
+    public override bool Equals(Part newPart)
+    {
+        if(this.PartId > newPart.PartId)
+            return 1;
+        else if(this.PartId < newPart.PartId)
+            return -1;
+        else return 0;
+
+    }
+
 }
