@@ -2,6 +2,24 @@
 using Warehouse;
 using RCollection;
 
+Player p1 = new Player("Sachin", 230, 40, 45);
+Player p2 = new Player("MsDhoni", 500, 34, 36);
+Player p3 = new Player("Virat", 450, 67, 32);
+Player p4 = new Player("Rohit", 270, 35, 31);
+
+List<Player> indianPlayer = new List<Player>();
+indianPlayer.Add(p1);
+indianPlayer.Add(p2);
+indianPlayer.Add(p3);
+indianPlayer.Add(p4);
+
+indianPlayer.Sort();
+
+foreach(Player p in indianPlayer){
+    Console.WriteLine("Name : "+p.name+" Runs : "+p.runs);
+}
+
+/*
 List<Employee> allEmps = new List<Employee>();
 allEmps.Add(new Employee(101,"Ravina", 340000));
 allEmps.Add(new Employee(95,"prav", 56000));
@@ -20,7 +38,7 @@ Console.WriteLine("\nShowing all Employees after sort : ");
 foreach(Employee emp in allEmps){
     Console.WriteLine(emp);
 }
-
+*/
 /*
 List<Part> allParts = new List<Part>();
 allParts.Add(new Part(){PartName="door", PartId=123});
