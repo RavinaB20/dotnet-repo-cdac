@@ -1,14 +1,13 @@
 ﻿using System.Collections.Generic;
+using Warehouse;
 
-List<Object> allObjects = new List<Object>();
-allObjects.Add(12);
-allObjects.Add(true);
-allObjects.Add(new { id=15, title="abc"});
-allObjects.Add(new { id=2, title="def"});
-allObjects.Add(new { id=12, title="hij"});
-allObjects.Add(new { id=6, title="klm"});
-allObjects.Add(new { id=9, title="nopsds"});
+List<Part> allParts = new List<Part>();
+allParts.Add(new Part(){PartName="door", PartId=123});
+allParts.Add(new Part(){PartName="wheels", PartId=345});
+allParts.Add(new Part(){PartName="bush", PartId=1345});
+allParts.Add(new Part(){PartName="tyre", PartId=6453});
+allParts.Add(new Part(){PartName="disk", PartId=1343});
 
-foreach(object o in allObjects){
-    Console.WriteLine(o);
+foreach(Part part in allParts){
+    Console.WriteLine(part);
 }
