@@ -1,6 +1,27 @@
 ﻿using System.Collections.Generic;
 using Warehouse;
+using RCollection;
 
+List<Employee> allEmps = new List<Employee>();
+allEmps.Add(new Employee(101,"Ravina", 340000));
+allEmps.Add(new Employee(95,"prav", 56000));
+allEmps.Add(new Employee(200,"Srishti", 23000));
+allEmps.Add(new Employee(67,"Pooja", 54500));
+allEmps.Add(new Employee(145,"Niharika", 76000));
+
+Console.WriteLine("Showing all Employees : ");
+foreach(Employee emp in allEmps){
+    Console.WriteLine(emp);
+}
+EmpComparer ec = new EmpComparer();
+allEmps.Sort(ec);
+
+Console.WriteLine("\nShowing all Employees after sort : ");
+foreach(Employee emp in allEmps){
+    Console.WriteLine(emp);
+}
+
+/*
 List<Part> allParts = new List<Part>();
 allParts.Add(new Part(){PartName="door", PartId=123});
 allParts.Add(new Part(){PartName="wheels", PartId=345});
@@ -54,4 +75,13 @@ foreach(Part part in tray){
     Console.WriteLine(part);
 }
 
+Dictionary<string, Part> todaysAllPart = new Dictionary<string, Part>();
+todaysAllPart.Add("main",new Part(){PartName="door", PartId=23455});
+todaysAllPart.Add("top",new Part(){PartName="window", PartId=76543});
+todaysAllPart.Add("bottom",new Part(){PartName="tap", PartId=23456});
+todaysAllPart.Add("center",new Part(){PartName="table", PartId=43433});
+
+Part thePart = todaysAllPart["main"];
+Console.WriteLine("Showing dictionary main part : "+thePart);
+*/
 
