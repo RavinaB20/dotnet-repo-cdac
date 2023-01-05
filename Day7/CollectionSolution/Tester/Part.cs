@@ -1,6 +1,6 @@
 namespace Warehouse;
 
-public class Part
+public class Part: IComparable
 {
     public string PartName { get; set; }
     public int PartId { get; set; }

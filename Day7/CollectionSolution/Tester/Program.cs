@@ -8,6 +8,12 @@ allParts.Add(new Part(){PartName="bush", PartId=1345});
 allParts.Add(new Part(){PartName="tyre", PartId=6453});
 allParts.Add(new Part(){PartName="disk", PartId=1343});
 
+Console.WriteLine("Showing all parts : ");
+foreach(Part part in allParts){
+    Console.WriteLine(part);
+}
+
+Console.WriteLine("\nShowing all parts after sorting: ");
 foreach(Part part in allParts){
     Console.WriteLine(part);
 }
@@ -30,3 +36,22 @@ foreach(Part part in assembly){
 }
 
 Console.WriteLine("Showing peek value : "+assembly.Peek());
+
+Queue<Part> tray = new Queue<Part>();
+tray.Enqueue(new Part(){PartName="door", PartId=71111});
+tray.Enqueue(new Part(){PartName="window", PartId=22222});
+tray.Enqueue(new Part(){PartName="curtain", PartId=6554});
+tray.Enqueue(new Part(){PartName="tiles", PartId=4544});
+
+Console.WriteLine("\nShowing all queue elements : ");
+foreach(Part part in tray){
+    Console.WriteLine(part);
+}
+
+tray.Dequeue();
+Console.WriteLine("\nShowing all queue elements after dequeue : ");
+foreach(Part part in tray){
+    Console.WriteLine(part);
+}
+
+
