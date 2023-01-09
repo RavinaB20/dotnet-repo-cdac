@@ -1,0 +1,8 @@
+[
+    {"ProductId" : 101, "ProductName" : "Pen" , "Price" : 10 , "Quantity" : 100},
+    {"ProductId" : 102, "ProductName" : "Scale" , "Price" : 70 , "Quantity" : 92},
+    {"ProductId" : 103, "ProductName" : "Sharpner" , "Price" : 15 , "Quantity" : 65},
+    {"ProductId" : 104, "ProductName" : "Eraser" , "Price" : 30 , "Quantity" : 45},
+    {"ProductId" : 105, "ProductName" : "Pencil" , "Price" : 20 , "Quantity" : 70}    
+
+]

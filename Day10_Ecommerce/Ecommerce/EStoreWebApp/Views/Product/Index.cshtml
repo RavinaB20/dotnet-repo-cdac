@@ -1,0 +1,23 @@
+@using BOL
+@{
+    ViewData["Title"] = " Products Index Page";
+}
+
+<div>
+    <h2>Latest Product Catalog </h2>
+
+    @{
+        List<Product> allProducts = (List<Product>)ViewData["products"];
+        <ol>
+            @foreach (Product product in allProducts)
+            {
+                <li>
+                    <a href="/product/details/@product.ProductId">@product.ProductName</a>
+                </li>
+            }
+        </ol>
+    
+    }
+
+
+</div>

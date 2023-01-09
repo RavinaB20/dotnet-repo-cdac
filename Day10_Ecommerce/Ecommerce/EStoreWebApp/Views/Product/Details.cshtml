@@ -1,0 +1,18 @@
+@using BOL
+
+@{
+    ViewData["Title"] = " Products Details Page";
+}
+
+<div>
+    <h2>Product details </h2>
+    @{
+        Product foundProduct = ViewData["product"] as Product;
+        <p>Product Name : <b><u>@foundProduct.ProductName</u></b></p>
+        <p>Product id : @foundProduct.ProductId</p>
+        <p>Quantity : @foundProduct.Quantity</p>
+        <p>Price : @foundProduct.Price</p>
+
+    }
+
+</div>
