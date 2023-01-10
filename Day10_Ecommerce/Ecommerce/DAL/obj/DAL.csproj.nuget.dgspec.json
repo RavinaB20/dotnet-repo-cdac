@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNet\\Ecommerce\\DAL\\DAL.csproj": {}
+    "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "D:\\DotNet\\Ecommerce\\BOL\\BOL.csproj": {
+    "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\BOL\\BOL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNet\\Ecommerce\\BOL\\BOL.csproj",
+        "projectUniqueName": "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\BOL\\BOL.csproj",
         "projectName": "BOL",
-        "projectPath": "D:\\DotNet\\Ecommerce\\BOL\\BOL.csproj",
+        "projectPath": "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\BOL\\BOL.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNet\\Ecommerce\\BOL\\obj\\",
+        "outputPath": "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\BOL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "D:\\DotNet\\Ecommerce\\DAL\\DAL.csproj": {
+    "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNet\\Ecommerce\\DAL\\DAL.csproj",
+        "projectUniqueName": "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\DotNet\\Ecommerce\\DAL\\DAL.csproj",
+        "projectPath": "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNet\\Ecommerce\\DAL\\obj\\",
+        "outputPath": "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\DotNet\\Ecommerce\\BOL\\BOL.csproj": {
-                "projectPath": "D:\\DotNet\\Ecommerce\\BOL\\BOL.csproj"
+              "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\BOL\\BOL.csproj": {
+                "projectPath": "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\BOL\\BOL.csproj"
               }
             }
           }
@@ -94,6 +94,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "mysql.data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

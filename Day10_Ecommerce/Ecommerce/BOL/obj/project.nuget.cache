@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FFR07fbnk6TDlbW3QrQ4V8d75984whD777uYBDLCGAn8xcvV6v6TaIjrEYaVoN4vupvdlkKTmi44Uc+zDF1Dlw==",
+  "dgSpecHash": "v2IvbLEUaFNHd7T6l8mSien1deTuDhFYMTm7QlhdgVoX7GkI33xf7IWST1peJGYRQ7+JUCBpapyTxrD/L5sEDg==",
   "success": true,
-  "projectFilePath": "D:\\DotNet\\Ecommerce\\BOL\\BOL.csproj",
+  "projectFilePath": "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\BOL\\BOL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

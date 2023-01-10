@@ -10,3 +10,15 @@ D:\DotNet\Ecommerce\BOL\obj\Debug\net7.0\BOL.dll
 D:\DotNet\Ecommerce\BOL\obj\Debug\net7.0\refint\BOL.dll
 D:\DotNet\Ecommerce\BOL\obj\Debug\net7.0\BOL.pdb
 D:\DotNet\Ecommerce\BOL\obj\Debug\net7.0\ref\BOL.dll
+D:\DotNet\dotnet-repo-cdac\Day10_Ecommerce\Ecommerce\BOL\bin\Debug\net7.0\BOL.deps.json
+D:\DotNet\dotnet-repo-cdac\Day10_Ecommerce\Ecommerce\BOL\bin\Debug\net7.0\BOL.dll
+D:\DotNet\dotnet-repo-cdac\Day10_Ecommerce\Ecommerce\BOL\bin\Debug\net7.0\BOL.pdb
+D:\DotNet\dotnet-repo-cdac\Day10_Ecommerce\Ecommerce\BOL\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+D:\DotNet\dotnet-repo-cdac\Day10_Ecommerce\Ecommerce\BOL\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\dotnet-repo-cdac\Day10_Ecommerce\Ecommerce\BOL\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+D:\DotNet\dotnet-repo-cdac\Day10_Ecommerce\Ecommerce\BOL\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+D:\DotNet\dotnet-repo-cdac\Day10_Ecommerce\Ecommerce\BOL\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+D:\DotNet\dotnet-repo-cdac\Day10_Ecommerce\Ecommerce\BOL\obj\Debug\net7.0\BOL.dll
+D:\DotNet\dotnet-repo-cdac\Day10_Ecommerce\Ecommerce\BOL\obj\Debug\net7.0\refint\BOL.dll
+D:\DotNet\dotnet-repo-cdac\Day10_Ecommerce\Ecommerce\BOL\obj\Debug\net7.0\BOL.pdb
+D:\DotNet\dotnet-repo-cdac\Day10_Ecommerce\Ecommerce\BOL\obj\Debug\net7.0\ref\BOL.dll

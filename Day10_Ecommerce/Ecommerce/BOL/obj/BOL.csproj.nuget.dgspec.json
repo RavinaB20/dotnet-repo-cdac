@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DotNet\\Ecommerce\\BOL\\BOL.csproj": {}
+    "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\BOL\\BOL.csproj": {}
   },
   "projects": {
-    "D:\\DotNet\\Ecommerce\\BOL\\BOL.csproj": {
+    "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\BOL\\BOL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DotNet\\Ecommerce\\BOL\\BOL.csproj",
+        "projectUniqueName": "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\BOL\\BOL.csproj",
         "projectName": "BOL",
-        "projectPath": "D:\\DotNet\\Ecommerce\\BOL\\BOL.csproj",
+        "projectPath": "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\BOL\\BOL.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\DotNet\\Ecommerce\\BOL\\obj\\",
+        "outputPath": "D:\\DotNet\\dotnet-repo-cdac\\Day10_Ecommerce\\Ecommerce\\BOL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
